@@ -1,0 +1,1 @@
+const s="/polardb-pg-docs-v11/assets/1_polardb_architecture-BV1HTrku.png",o="/polardb-pg-docs-v11/assets/6_outdated_pages-DtAKKAoW.png",t="/polardb-pg-docs-v11/assets/7_solution_to_outdated_pages-hphFoDcW.png",p="/polardb-pg-docs-v11/assets/9_future_pages-BbwsZQ8R.png";export{s as _,o as a,t as b,p as c};
